@@ -1,0 +1,28 @@
+sudo su
+
+apt install apache2
+
+wget repo url
+
+apt-get install unzip
+
+ls
+
+unzip web.zip
+
+cd html/
+
+mv * /var/www/html
+
+
+
+
+gcloud projects list
+
+gcloud config set project id
+
+git clone link
+
+cd python-docs-samples/appengine/standard_python3/hello_world/
+
+python main.py
